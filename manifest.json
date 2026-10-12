@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-12",
+  "fileCount": 3,
+  "sourceRepository": "philips-ai-tool-lab/ai-tool-lab-preview",
+  "sourceCommit": "083ebbb6b27e6d7c925e8397fccd6f36f5e241e6",
+  "totalBytes": 6625328,
+  "files": [
+    {
+      "path": "Copilot服务销售培训_30分钟_示范版.pptx",
+      "source": "outputs/copilot-service-sales-30min/Copilot服务销售培训_30分钟_示范版.pptx",
+      "bytes": 547047,
+      "sha256": "c5ca90a4f78ba15179fa57ef9ce0c67e94667cf49eaef26a2846fcc8930abcec",
+      "previousRepositoryPath": "training/service-sales-30min/Copilot服务销售培训_30分钟_示范版.pptx"
+    },
+    {
+      "path": "Copilot服务销售培训.html",
+      "source": "outputs/copilot-service-sales-30min/Copilot服务销售培训.html",
+      "bytes": 2470358,
+      "sha256": "bb3078393f8387123a13f29ebe261ddd085bd757c8cee5b9e7f86b924384cc4e",
+      "previousRepositoryPath": "training/service-sales-30min/Copilot服务销售培训.html"
+    },
+    {
+      "path": "Copilot服务销售30分钟_示范版材料包.zip",
+      "source": "outputs/Copilot服务销售30分钟_示范版材料包.zip",
+      "bytes": 3607923,
+      "sha256": "071557731d57e065a23d7706cd4f725e09bfdbfd3b21edcdde9603e5df614e8f",
+      "previousRepositoryPath": "training/service-sales-30min/Copilot服务销售30分钟_示范版材料包.zip"
+    }
+  ]
+}
